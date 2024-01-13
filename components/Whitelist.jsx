@@ -77,8 +77,8 @@ const Contact = () => {
           ))} */}
         <div className=" flex flex-col gap-8 items-center justify-center">
           <h2 className="text-xl md:text-2xl">
-            We're glad to let you know we found the fast way to participate in
-            the quick revolving blockchain, EFT tokens are your gateway to
+            We&apos;re glad to let you know we found the fast way to participate
+            in the quick revolving blockchain, EFT tokens are your gateway to
             exciting opportunities. Claim your EFT tokens now.
           </h2>
           <p className={styles.sectionSubText}></p>
